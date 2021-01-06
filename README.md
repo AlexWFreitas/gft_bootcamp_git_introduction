@@ -3,5 +3,6 @@
 Olá! Bem vindo ao meu livro de receitas :wave:
 
 - Strogonoff de frango
-- Salada Russa
+- Batata com Maionese
 - Batata Frita
+- Salada Russa
